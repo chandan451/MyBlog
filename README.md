@@ -7,6 +7,7 @@ Install Dependencies
 ```
 pip3 install Django==2.1
 ```
+Add/update your security key value in blog_project/settings.py file
 
 Set Database (Make Sure you are in directory same as manage.py)
 ```
